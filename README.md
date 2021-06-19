@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/svelterialjs/svelte-extend/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/TheComputerM/@svelterialjs/svelte-extend" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/svelterialjs/svelte-extend" />
   </a>
   <a href="https://twitter.com/TheComputerM" target="_blank">
     <img alt="Twitter: TheComputerM" src="https://img.shields.io/twitter/follow/TheComputerM.svg?style=social" />
