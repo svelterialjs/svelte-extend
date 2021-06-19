@@ -1,0 +1,38 @@
+{
+  "name": "@svelterialjs/svelte-extend",
+  "version": "1.0.0",
+  "description": "Generate new Svelte components by extending existing ones.",
+  "module": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "svelte": "^3.38.2"
+  },
+  "devDependencies": {
+    "svelte": "^3.38.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svelterialjs/svelte-extend.git"
+  },
+  "keywords": [
+    "svelte",
+    "extend"
+  ],
+  "author": "TheComputerM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svelterialjs/svelte-extend/issues"
+  },
+  "homepage": "https://github.com/svelterialjs/svelte-extend#readme",
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "endOfLine": "lf"
+  }
+}
